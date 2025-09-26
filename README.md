@@ -24,14 +24,14 @@ Responda breve e diretamente, usando poucas palavras. Foque no ponto principal s
 
 ### PARA FAZER ALGUM PEDIDO PARA O CÓDIGO
 
-``````
+``````bash
 Eu tenho o seguinte código:
 
 ```
-
+# Código
 ```
 
 Responda breve e diretamente, usando poucas palavras. Foque no ponto principal sem elaboração ou perguntas adicionais.
 
-(Pedido)
+# Pedido
 ``````
