@@ -2,7 +2,7 @@
 
 Prompts pré-definidos para usar nas IA.
 
-### PARA DOCUMENTAR CÓDIGO
+### DOCUMENTAR CÓDIGO
 
 ``````bash
 Documente esse código usando docstring e inline de forma concisa:
@@ -14,7 +14,7 @@ Documente esse código usando docstring e inline de forma concisa:
 
 ---
 
-### PARA DEIXAR O RESULTADO MAIS CONCISO
+### DEIXAR O RESULTADO MAIS CONCISO
 
 ```bash
 Responda breve e diretamente, usando poucas palavras. Foque no ponto principal sem elaboração ou perguntas adicionais.
@@ -22,7 +22,7 @@ Responda breve e diretamente, usando poucas palavras. Foque no ponto principal s
 
 ---
 
-### PARA FAZER ALGUM PEDIDO PARA O CÓDIGO
+### FAZER ALGUM PEDIDO PARA O CÓDIGO
 
 ``````bash
 Eu tenho o seguinte código:
