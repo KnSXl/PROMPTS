@@ -5,15 +5,33 @@ Prompts pré-definidos para usar nas IA.
 ### PARA DOCUMENTAR CÓDIGO
 
 ``````bash
-Documente essa função usando inline de forma simplês: 
+Documente esse código usando docstring e inline de forma concisa:
 
 ```
-# Função
+# Código
 ```
 ``````
+
+---
 
 ### PARA DEIXAR O RESULTADO MAIS CONCISO
 
 ```bash
 Responda breve e diretamente, usando poucas palavras. Foque no ponto principal sem elaboração ou perguntas adicionais.
 ```
+
+---
+
+### PARA FAZER ALGUM PEDIDO PARA O CÓDIGO
+
+``````
+Eu tenho o seguinte código:
+
+```
+
+```
+
+Responda breve e diretamente, usando poucas palavras. Foque no ponto principal sem elaboração ou perguntas adicionais.
+
+(Pedido)
+``````
