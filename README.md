@@ -34,3 +34,21 @@ exemplo.txt:
 
 # Pedido
 ``````
+
+---
+
+### TRADUZIR PARA OUTRO IDIOMA
+
+```bash
+Traduza para en-us:
+
+"Mensagem"
+```
+
+ou
+
+```bash
+Traduza para pt-br:
+
+"Message"
+```
