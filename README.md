@@ -4,13 +4,13 @@ Prompts pré-definidos para usar nas IA.
 
 ### PARA DOCUMENTAR CÓDIGO
 
-```bash
+``````bash
 Documente essa função usando inline de forma simplês: 
 
 ```
-
+# Função
 ```
-```
+``````
 
 ### PARA DEIXAR O RESULTADO MAIS CONCISO
 
