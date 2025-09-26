@@ -31,7 +31,5 @@ Eu tenho o seguinte código:
 # Código
 ```
 
-Responda breve e diretamente, usando poucas palavras. Foque no ponto principal sem elaboração ou perguntas adicionais.
-
 # Pedido
 ``````
