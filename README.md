@@ -23,7 +23,7 @@ Documente esse código usando docstring e inline de forma concisa:
 ou
 
 ``````bash
-Documente este código diretamente nele, usando boas práticas de documentação de forma concisa e em pt-br:
+Documente este código diretamente nele, utilizando boas práticas de documentação, de forma concisa e em pt-BR:
 
 ```
 # Código
