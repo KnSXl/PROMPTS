@@ -20,6 +20,15 @@ Documente esse código usando docstring e inline de forma concisa:
 ```
 ``````
 
+ou
+
+``````bash
+Documente esse código diretamente nele, usando boas práticas de documentação com comentários e docstrings de forma concisa:
+```
+# Código
+```
+``````
+
 ---
 
 ### FAZER ALGUM PEDIDO PARA O CÓDIGO
