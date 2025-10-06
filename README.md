@@ -24,6 +24,7 @@ ou
 
 ``````bash
 Documente esse código diretamente nele, usando boas práticas de documentação com comentários e docstrings de forma concisa:
+
 ```
 # Código
 ```
