@@ -33,7 +33,10 @@ Documente este código diretamente nele, utilizando boas práticas de documenta�
 ou
 
 ``````bash
-Documente este código diretamente nele, utilizando boas práticas de documentação, de forma concisa e pouco formal. Documente apenas onde estiverem os comentários vazios (<!-- ... -->, // ..., /** ... */) e em pt-BR:
+Documente este código diretamente nele, utilizando boas práticas de documentação, de forma concisa, em pt-BR e documente apenas onde estiverem os comentários vazios (<!-- ... -->, // ...,
+/**
+ * 
+ */):
 
 ```
 # Código
