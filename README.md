@@ -88,3 +88,14 @@ Traduza para pt-br:
 
 "Message"
 ```
+
+### CORRIGIR A ORTOGRAFIA:
+
+```bash
+Corrija a ortografia: "Texto"
+```
+
+### CONVERTER TEXTO EM TÍTULO:
+```bash
+Transforme esse texto no título de uma tarefa usando title case: "Texto"
+```
