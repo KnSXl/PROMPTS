@@ -97,5 +97,5 @@ Corrija a ortografia: "Texto"
 
 ### CONVERTER TEXTO EM TÍTULO:
 ```bash
-Transforme esse texto no título de uma tarefa usando title case: "Texto"
+Transforme esse texto em um título de uma tarefa usando title case: "Texto"
 ```
