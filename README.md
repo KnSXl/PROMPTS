@@ -99,3 +99,13 @@ Corrija a ortografia: "Texto"
 ```bash
 Transforme esse texto em um título de uma tarefa usando title case: "Texto"
 ```
+
+### APRENDER LINGUAGEM:
+```bash
+Como usar (linguagem)?
+```
+
+### PEDIR EXERCÍCIOS:
+```bash
+Exercícios para fazer em (linguagem)
+```
