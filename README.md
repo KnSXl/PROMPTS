@@ -56,6 +56,19 @@ Documente este código diretamente nele, utilizando boas práticas de documenta�
 ```
 ``````
 
+ou
+
+``````
+Documente este código diretamente nele, utilizando boas práticas de documentação, de forma breve e direta, usando o mínimo de palavras possível. Concentre-se no ponto principal, sem elaborações ou perguntas complementares, pode ser um informal (sem excesso), em pt-BR, mantenha o padrão do código e documente apenas onde estiverem os comentários vazios (<!-- ... -->, // ...,
+/**
+ * 
+ */):
+
+```
+# Código
+```
+``````
+
 ---
 
 ### FAZER ALGUM PEDIDO PARA O CÓDIGO
