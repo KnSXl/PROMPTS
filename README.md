@@ -102,6 +102,16 @@ Traduza para pt-br:
 "Message"
 ```
 
+ou
+
+```bash
+Traduza para en-us:
+
+"..."
+
+Depois quero que você monte dois objetos, um para pt-br e outro para en-us. As chaves do objetos serão as frases traduzidas em en-us, sem espaços, sem acentos, sem virgulas, tudo em minusculos, etc. e o valor Será a frase traduzida. Faça isso tanto para pt-br e para en-us
+```
+
 ### CORRIGIR A ORTOGRAFIA:
 
 ```bash
