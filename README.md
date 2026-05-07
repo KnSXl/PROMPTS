@@ -132,3 +132,10 @@ Como usar (linguagem)?
 ```bash
 Exercícios para fazer em (linguagem)
 ```
+
+### REESCREVER PROMPT MODELO CPA (CONTEXTO, PEDIDO/PAPEL, ALVO):
+```bash
+Reescreva esse prompt usando modelo CPA (contexto, pedido/papel, alvo):
+
+"..."
+```
